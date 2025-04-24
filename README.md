@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**das-pradip/das-pradip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ⚡ Fun fact# Hi 👋, I'm Pradip Das
 
-Here are some ideas to get you started:
+🎓 Final Year M.Tech Communication Engineering  
+💻 Learning MERN Stack | Passionate about Full Stack Development  
+📫 Reach me at: pradipdas.dev99@email.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+## 📈 GitHub Stats
+![Pradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=das-pradip&show_icons=true&theme=radical)
+
+
