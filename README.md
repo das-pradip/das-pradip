@@ -3,8 +3,9 @@
 <h3 align="center">💻 Electronics & Communication Engineer | Aspiring Full Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer+in+Progress;Java+%7C+C+%7C+MySQL+%7C+React+Lover;Learning+never+stops+🚀" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer+in+Progress;Java+%7C+C+%7C+MySQL+%7C+React+Lover;Learning+never+stops+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -48,12 +49,9 @@
 ---
 
 ### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:pradipdas.dev99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pradipdas99/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/das-pradip"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradipdas.dev99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradipdas99/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/das-pradip)
 
 ---
 
